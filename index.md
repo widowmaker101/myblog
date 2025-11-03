@@ -1,16 +1,13 @@
 ---
 layout: home
-title: Home
+title: Welcome
 ---
 
-# Welcome to My Blog
+# My Blog
 
-Hi, I'm **widowmaker101**.  
-This is my **live Jekyll blog** on **GitHub Pages**.
+**Live on GitHub Pages**  
+Built with **Jekyll + Minimal Mistakes**
 
-## Latest Posts
-{% for post in site.posts limit:3 %}
-- [**{{ post.title }}**]({{ post.url | relative_url }}) – {{ post.date | date: "%B %d, %Y" }}
-{% endfor %}
+[Read My First Post →](/myblog/2025/10/30/welcome/)
 
-[View All Posts →]({{ "/archive/" | relative_url }})
+---

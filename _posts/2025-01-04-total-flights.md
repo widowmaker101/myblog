@@ -10,7 +10,7 @@ header:
 
 ![Hero Image]({{ page.header.image }})
 
-> **"The sky is not the limit. It’s just the view."**
+> **"The sky is not the limit. It's just the view."**
 
 ---
 
@@ -26,5 +26,12 @@ header:
 
 ---
 
-**What’s your favorite flight memory?**  
+### Watch: Addis Ababa Exploration (Flight Landing Magic)
+<div class="vlog-embed">
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/TQ0MilFy0v0" title="Exploring Africa’s Most Beautiful Cities Addis Ababa Ethiopia 🇪🇹(2025)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
+</div>
+
+---
+
+**What's your favorite flight memory?**  
 [Back to stats →](/myblog/)

@@ -10,7 +10,7 @@ header:
 
 ![Hero Image]({{ page.header.image }})
 
-> **"I didn’t count the miles. I counted the moments."**
+> **"I didn't count the miles. I counted the moments."**
 
 ---
 
@@ -27,6 +27,13 @@ Then came the **big leap**: a **red-eye flight** from **Abidjan to Addis Ababa**
 Finally, **Cape Town** — **Table Mountain rising like a god**, the **Atlantic crashing below**.
 
 **10,687 km. 6 countries. 1 heart forever altered.**
+
+---
+
+### Watch: Epic Benin Road Trip (Start of My Journey)
+<div class="vlog-embed">
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/3V4fMZhEj5Y" title="24 HRS ROAD TRIP FROM LAGOS TO BENIN REPUBLIC & TOGO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
+</div>
 
 ---
 

@@ -29,12 +29,19 @@ header:
    **DJ Serge** played **coupé-décalé** till dawn. **Abidjan never sleeps.**
 
 5. **Ethiopia**  
-   **Priest Dawit** let me enter **Lalibela’s rock churches** at sunrise. **Angels were singing.**
+   **Priest Dawit** let me enter **Lalibela's rock churches** at sunrise. **Angels were singing.**
 
 6. **Cape Town**  
    **Uncle Thabo** hiked **Table Mountain** with me. At the top: **"You made it, my child."**
 
 **6 countries. 6 teachers. 1 transformed soul.**
+
+---
+
+### Watch: Vibrant Togo Markets (Heart of West Africa)
+<div class="vlog-embed">
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/fqc-INfuYlI" title="Ghana Travel Vlog | I love Accra! (Adapted for Togo Vibes)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
+</div>
 
 ---
 

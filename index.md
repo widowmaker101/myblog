@@ -69,26 +69,26 @@ title: Home
 ## 2025 Travel Stats
 
 <div class="stats-grid">
-  <div class="stat-card">
+  <a href="{{ '/2025/01/01/distance-traveled/' | relative_url }}" class="stat-card">
     <h3>10,687 km</h3>
-    <p>Total Distance Traveled</p>
-    <small>(6,641 miles)</small>
-  </div>
-  <div class="stat-card">
+    <p>Total Distance</p>
+    <small>Click for full route breakdown</small>
+  </a>
+  <a href="{{ '/2025/01/02/countries-visited/' | relative_url }}" class="stat-card">
     <h3>6</h3>
     <p>Countries Visited</p>
     <small>West & East Africa</small>
-  </div>
-  <div class="stat-card">
+  </a>
+  <a href="{{ '/2025/01/03/months-on-road/' | relative_url }}" class="stat-card">
     <h3>10</h3>
     <p>Months on the Road</p>
     <small>Jan–Oct 2025</small>
-  </div>
-  <div class="stat-card">
+  </a>
+  <a href="{{ '/2025/01/04/total-flights/' | relative_url }}" class="stat-card">
     <h3>5</h3>
     <p>Total Flights</p>
-    <small>Border Crossings</small>
-  </div>
+    <small>Border crossings & logistics</small>
+  </a>
 </div>
 
 ---
@@ -99,7 +99,7 @@ title: Home
 
 ---
 
-> *"I haven't been everywhere, but it's on my list."* – Susan Sontag
+> *"Every journey begins with a single step."* – Lao Tzu
 
 ---
 

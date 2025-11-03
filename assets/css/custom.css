@@ -104,3 +104,18 @@
     font-size: 2rem;
   }
 }
+
+/* Clickable Stat Cards */
+.stats-grid a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.stats-grid a:hover .stat-card {
+  transform: translateY(-6px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+
+.stats-grid a:hover small {
+  color: #2c3e50;
+}

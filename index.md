@@ -9,26 +9,26 @@ title: Home
 
 ---
 
-## Countries Visited This Year
+## My 2025 Africa Journey
 
-| Country         | Flag | Month     | Highlight |
-|-----------------|------|-----------|-----------|
-| Benin Republic  | 🇧🇯 | January   | Ouidah Slave Route |
-| Togo            | 🇹🇬 | February  | Lomé Markets |
-| Ghana           | 🇬🇭 | March     | Cape Coast Castle |
-| Ivory Coast     | 🇨🇮 | May       | Abidjan Skyline |
-| Ethiopia        | 🇪🇹 | August    | Lalibela Rock Churches |
-| Cape Town       | 🇿🇦 | October   | Table Mountain Hike |
-
----
-
-> *"Travel far enough, you meet yourself."* – David Mitchell
+| Country         | Photo | Month     | Highlight |
+|-----------------|-------|-----------|-----------|
+| **Benin Republic** | ![Benin](/myblog/assets/images/travel/benin.jpg) | January | Ouidah Slave Route |
+| **Togo** | ![Togo](/myblog/assets/images/travel/togo.jpg) | February | Lomé Markets |
+| **Ghana** | ![Ghana](/myblog/assets/images/travel/ghana.jpg) | March | Cape Coast Castle |
+| **Ivory Coast** | ![Ivory Coast](/myblog/assets/images/travel/ivorycoast.jpg) | May | Abidjan Skyline |
+| **Ethiopia** | ![Ethiopia](/myblog/assets/images/travel/ethiopia.jpg) | August | Lalibela Rock Churches |
+| **Cape Town** | ![Cape Town](/myblog/assets/images/travel/capetown.jpg) | October | Table Mountain Hike |
 
 ---
 
-## Latest Adventures
+> *"Not all those who wander are lost."* – J.R.R. Tolkien
+
+---
+
+## Latest Stories
 {% for post in site.posts limit:3 %}
 - [**{{ post.title }}**]({{ post.url | relative_url }}) – {{ post.date | date: "%B %d, %Y" }}
 {% endfor %}
 
-[View All Posts →]({{ "/archive/" | relative_url }})
+[View All →]({{ "/archive/" | relative_url }})

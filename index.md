@@ -7,22 +7,66 @@ title: Home
 
 **2025: 6 Countries in 1 Year**
 
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+
 ---
 
 ## My 2025 Africa Journey
 
-| Country         | Photo | Month     | Highlight |
-|-----------------|-------|-----------|-----------|
-| **Benin Republic** | ![Benin](/myblog/assets/images/travel/benin.jpg) | January | Ouidah Slave Route |
-| **Togo** | ![Togo](/myblog/assets/images/travel/togo.jpg) | February | Lomé Markets |
-| **Ghana** | ![Ghana](/myblog/assets/images/travel/ghana.jpg) | March | Cape Coast Castle |
-| **Ivory Coast** | ![Ivory Coast](/myblog/assets/images/travel/ivorycoast.jpg) | May | Abidjan Skyline |
-| **Ethiopia** | ![Ethiopia](/myblog/assets/images/travel/ethiopia.jpg) | August | Lalibela Rock Churches |
-| **Cape Town** | ![Cape Town](/myblog/assets/images/travel/capetown.jpg) | October | Table Mountain Hike |
+<div class="travel-table-wrapper">
+<table class="travel-table">
+  <thead>
+    <tr>
+      <th>Country</th>
+      <th>Photo</th>
+      <th>Month</th>
+      <th>Highlight</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Benin Republic</strong> 🇧🇯</td>
+      <td><img src="/myblog/assets/images/travel/benin.jpg" alt="Benin"></td>
+      <td>January</td>
+      <td>Ouidah Slave Route</td>
+    </tr>
+    <tr>
+      <td><strong>Togo</strong> 🇹🇬</td>
+      <td><img src="/myblog/assets/images/travel/togo.jpg" alt="Togo"></td>
+      <td>February</td>
+      <td>Lomé Markets</td>
+    </tr>
+    <tr>
+      <td><strong>Ghana</strong> 🇬🇭</td>
+      <td><img src="/myblog/assets/images/travel/ghana.jpg" alt="Ghana"></td>
+      <td>March</td>
+      <td>Cape Coast Castle</td>
+    </tr>
+    <tr>
+      <td><strong>Ivory Coast</strong> 🇨🇮</td>
+      <td><img src="/myblog/assets/images/travel/ivorycoast.jpg" alt="Ivory Coast"></td>
+      <td>May</td>
+      <td>Abidjan Skyline</td>
+    </tr>
+    <tr>
+      <td><strong>Ethiopia</strong> 🇪🇹</td>
+      <td><img src="/myblog/assets/images/travel/ethiopia.jpg" alt="Ethiopia"></td>
+      <td>August</td>
+      <td>Lalibela Rock Churches</td>
+    </tr>
+    <tr>
+      <td><strong>Cape Town</strong> 🇿🇦</td>
+      <td><img src="/myblog/assets/images/travel/capetown.jpg" alt="Cape Town"></td>
+      <td>October</td>
+      <td>Table Mountain Hike</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 ---
 
-> *"Not all those who wander are lost."* – J.R.R. Tolkien
+> *"The world is a book, and those who do not travel read only one page."* – Saint Augustine
 
 ---
 

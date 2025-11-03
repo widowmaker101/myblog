@@ -1,0 +1,56 @@
+/* Responsive Travel Table */
+.travel-table-wrapper {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin: 2rem 0;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.travel-table {
+  width: 100%;
+  min-width: 600px;
+  border-collapse: collapse;
+  background: #fff;
+  font-size: 0.95rem;
+}
+
+.travel-table th,
+.travel-table td {
+  padding: 12px 10px;
+  text-align: left;
+  border-bottom: 1px solid #eee;
+}
+
+.travel-table th {
+  background: #f8f9fa;
+  font-weight: 600;
+  position: sticky;
+  left: 0;
+  z-index: 1;
+}
+
+.travel-table img {
+  width: 80px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  transition: transform 0.2s;
+}
+
+.travel-table img:hover {
+  transform: scale(1.05);
+}
+
+@media (max-width: 768px) {
+  .travel-table th,
+  .travel-table td {
+    padding: 8px 6px;
+    font-size: 0.85rem;
+  }
+  .travel-table img {
+    width: 60px;
+    height: 45px;
+  }
+}

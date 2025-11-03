@@ -66,7 +66,13 @@ title: Home
 
 ---
 
-> *"The world is a book, and those who do not travel read only one page."* – Saint Augustine
+## My Full 2025 Route
+
+{% include google-maps.html %}
+
+---
+
+> *"I haven't been everywhere, but it's on my list."* – Susan Sontag
 
 ---
 

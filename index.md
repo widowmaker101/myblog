@@ -1,13 +1,11 @@
 ---
 layout: home
-title: Welcome
+title: Home
 ---
 
-# My Blog
+# Welcome to My Blog
 
 **Live on GitHub Pages**  
 Built with **Jekyll + Minimal Mistakes**
-
-[Read My First Post →](/myblog/2025/10/30/welcome/)
 
 ---

@@ -1,28 +1,31 @@
 ---
-title: "10 Months on the Road"
+title: "10 Months on the Road: The Highs, Lows, and In-Betweens"
 date: 2025-01-03
 categories: stats journey
 layout: single
 header:
   image: /assets/images/posts/months.jpg
-  caption: "10 months of sunrises, sunsets, and everything in between"
+  caption: "10 months. 300 sunrises. 1 life rebooted."
 ---
 
 ![Hero Image]({{ page.header.image }})
 
-> **"Life is short. The world is wide."**
+> **"I left home to find myself. I found the world instead."**
 
 ---
 
-## 10 Months: A Timeline
+## The Emotional Timeline
 
-- **Jan–Mar**: West Africa (Benin, Togo, Ghana)
-- **May**: Ivory Coast — urban energy
-- **Aug**: Ethiopia — ancient rock churches
-- **Oct**: Cape Town — mountain hikes
+- **January**: **Benin** — *First border crossing. Heart racing. Am I ready?*
+- **February**: **Togo** — *Laughter in markets. First real connection.*
+- **March**: **Ghana** — *Tears at Cape Coast. History hurts.*
+- **May**: **Ivory Coast** — *Danced till 4 AM. Felt alive.*
+- **August**: **Ethiopia** — *Silence in Lalibela. Spiritual reset.*
+- **October**: **Cape Town** — *Stood on Table Mountain. Cried. Home.*
 
-**300+ days. Countless memories.**
+**10 months. 300+ days. Countless versions of me.**
 
 ---
 
-[View full journey →](/myblog/)
+**What’s the longest you’ve been away?**  
+[Back to journey →](/myblog/)

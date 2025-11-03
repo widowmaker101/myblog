@@ -1,32 +1,41 @@
 ---
-title: "6 Countries in 1 Year"
+title: "6 Countries, 6 Souls: The People Who Changed Me"
 date: 2025-01-02
 categories: stats countries
 layout: single
 header:
   image: /assets/images/posts/countries.jpg
-  caption: "6 flags, 6 cultures, 1 incredible year"
+  caption: "6 flags. 6 families. 1 global heart."
 ---
 
 ![Hero Image]({{ page.header.image }})
 
-> **"Travel is the only thing you buy that makes you richer."**
+> **"I went looking for adventure. I found family."**
 
 ---
 
-## My 6 Countries of 2025
+## 6 Countries, 6 Unforgettable Humans
 
-| Country | Vibe | Must-See |
-|---------|------|----------|
-| **Benin Republic** 🇧🇯 | Spiritual | Ouidah Slave Route |
-| **Togo** 🇹🇬 | Chill | Lomé Grand Market |
-| **Ghana** 🇬🇭 | History | Cape Coast Castle |
-| **Ivory Coast** 🇨🇮 | Urban | Abidjan Skyline |
-| **Ethiopia** 🇪🇹 | Ancient | Lalibela Churches |
-| **Cape Town** 🇿🇦 | Epic | Table Mountain |
+1. **Benin Republic** 🇧🇯  
+   **Mama Afi** taught me **voodoo is love**, not fear. She danced at midnight under **full moon**.
 
-**6 countries. 6 stories. 1 life-changing year.**
+2. **Togo** 🇹🇬  
+   **Kofi**, a fisherman, shared **palm wine** and said: *"The sea gives, the sea takes."*
+
+3. **Ghana** 🇬🇭  
+   **Auntie Akosua** fed me **fufu and light soup** — said I was **"now Ghanaian by stomach"**.
+
+4. **Ivory Coast** 🇨🇮  
+   **DJ Serge** played **coupé-décalé** till dawn. **Abidjan never sleeps.**
+
+5. **Ethiopia** 🇪🇹  
+   **Priest Dawit** let me enter **Lalibela’s rock churches** at sunrise. **Angels were singing.**
+
+6. **Cape Town** 🇿🇦  
+   **Uncle Thabo** hiked **Table Mountain** with me. At the top: **"You made it, my child."**
+
+**6 countries. 6 teachers. 1 transformed soul.**
 
 ---
 
-[Back to home →](/myblog/)
+[Who changed you on your travels? →](/myblog/)

@@ -72,7 +72,7 @@ title: Home
   <a href="{{ '/2025/01/01/distance-traveled/' | relative_url }}" class="stat-card">
     <h3>10,687 km</h3>
     <p>Total Distance</p>
-    <small>Click for full route breakdown</small>
+    <small>Click for full route</small>
   </a>
   <a href="{{ '/2025/01/02/countries-visited/' | relative_url }}" class="stat-card">
     <h3>6</h3>
@@ -87,7 +87,7 @@ title: Home
   <a href="{{ '/2025/01/04/total-flights/' | relative_url }}" class="stat-card">
     <h3>5</h3>
     <p>Total Flights</p>
-    <small>Border crossings & logistics</small>
+    <small>Border crossings</small>
   </a>
 </div>
 
@@ -99,7 +99,7 @@ title: Home
 
 ---
 
-> *"Every journey begins with a single step."* – Lao Tzu
+> *"I haven't been everywhere, but it's on my list."* – Susan Sontag
 
 ---
 

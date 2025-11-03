@@ -18,16 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: MY 2025 TRAVEL EXPERIENCE
+description: >- description: >-
+  Embark on a vibrant journey across Africa through the eyes of a curious traveler. From the coastal charm of Benin and Togo to the cultural heartbeat of Ghana and Ivory Coast, and onward to the majestic landscapes of Ethiopia and South Africa — this blog captures the stories, flavors, and unforgettable moments that define a continent. Discover hidden gems, local traditions, and travel tips that inspire wanderlust and celebrate the spirit of exploration.
+  Embark on a vibrant journey across Africa through the eyes of a curious traveler. From the coastal charm of Benin and Togo to the cultural heartbeat of Ghana and Ivory Coast, and onward to the majestic landscapes of Ethiopia and South Africa — this blog captures the stories, flavors, and unforgettable moments that define a continent. Discover hidden gems, local traditions, and travel tips that inspire wanderlust and celebrate the spirit of exploration.description: >- # this means to ignore newlines until "baseurl: 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "" # url: "https://widowmaker101.github.io"
+baseurl: "/myblog"
+twitter_username: charlesogbonnia
+github_username:  widowmaker101
 
 # Build settings
 theme: minima

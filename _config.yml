@@ -18,6 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+url: "https://widowmaker101.github.io"
+baseurl: "/myblog"
+
 title: MY 2025 TRAVEL EXPERIENCE
 description: >- description: >-
   Embark on a vibrant journey across Africa through the eyes of a curious traveler. From the coastal charm of Benin and Togo to the cultural heartbeat of Ghana and Ivory Coast, and onward to the majestic landscapes of Ethiopia and South Africa — this blog captures the stories, flavors, and unforgettable moments that define a continent. Discover hidden gems, local traditions, and travel tips that inspire wanderlust and celebrate the spirit of exploration.

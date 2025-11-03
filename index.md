@@ -66,6 +66,33 @@ title: Home
 
 ---
 
+## 2025 Travel Stats
+
+<div class="stats-grid">
+  <div class="stat-card">
+    <h3>10,687 km</h3>
+    <p>Total Distance Traveled</p>
+    <small>(6,641 miles)</small>
+  </div>
+  <div class="stat-card">
+    <h3>6</h3>
+    <p>Countries Visited</p>
+    <small>West & East Africa</small>
+  </div>
+  <div class="stat-card">
+    <h3>10</h3>
+    <p>Months on the Road</p>
+    <small>Jan–Oct 2025</small>
+  </div>
+  <div class="stat-card">
+    <h3>5</h3>
+    <p>Total Flights</p>
+    <small>Border Crossings</small>
+  </div>
+</div>
+
+---
+
 ## My Full 2025 Route
 
 {% include google-maps.html %}

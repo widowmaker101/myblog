@@ -1,5 +1,5 @@
-title: My Blog
-description: Live Jekyll site by widowmaker101
+title: MY TRAVEL BLOG
+description: "2025 West & East Africa Adventures – Benin, Togo, Ghana, Ivory Coast, Ethiopia, Cape Town"
 url: "https://widowmaker101.github.io"
 baseurl: "/myblog"
 
@@ -10,6 +10,15 @@ plugins:
 
 author:
   name: widowmaker101
-  bio: Developer | Creator | Learner
+  bio: "Solo traveler | 6 countries in 2025 | West & East Africa"
+  avatar: /assets/images/avatar.jpg
+  location: "Earth (Currently: Cape Town)"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/widowmaker101"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/yourhandle"
 
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "dirt"
